@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj Kiran G S
 =====================================================================================================================================
 
-Data Analyst | Machine Learning Enthusiast
+Data Engineer | Machine Learning Enthusiast
 ------------------------------------------
 
-I am a data analyst who loves working on complex datasets and find insights, having 3+years of working with mutiple development teams in various technologies as a developer I am now interested on working in the field of Data Science.
+I am a data engineer who loves working on complex datasets and find insights, having 3+years of working with mutiple development teams in various technologies as a developer I am now interested on working in the field of Data Science.
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [rajkirangs25@gmail.com](mailto:rajkirangs25@gmail.com)
