@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj Kiran G S
 =====================================================================================================================================
 
-Data Engineer | Machine Learning Enthusiast
-------------------------------------------
+Software Engineer | SQL & Python Developer | Data Engineering Enthusiast
+------------------------------------------------------------------------
 
-I am a data engineer who loves working on complex datasets and find insights, having 3+years of working with mutiple development teams in various technologies as a developer I am now interested on working in the field of Data Science.
+Software Engineer with 3 years of experience. Currently transitioning into data-focused engineering through hands-on projects involving SQL, Python, ETL workflows, and data processing.
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [rajkirangs25@gmail.com](mailto:rajkirangs25@gmail.com)
-* 🧠  I'm learning Machine Learning Algorithms
+* 🧠 Currently learning Data Engineering and ETL workflows  
+* 💻 Interested in SQL Development, Data Processing, and Backend Systems
 
 ### Skills
 
