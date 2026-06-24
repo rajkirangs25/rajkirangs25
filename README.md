@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj Kiran G S
 =====================================================================================================================================
 
-Software Engineer | Data Engineering
+Data Engineer
 ------------------------------------------------------------------------
 
 Data Engineer with 3 years of experience in Software Development. Currently transitioning into data-focused engineering through hands-on projects involving SQL, Python, ETL workflows, and data processing.
